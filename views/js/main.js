@@ -446,5 +446,4 @@ document.addEventListener('DOMContentLoaded', function() {
             .appendChild(elem);
     }
     updatePositions();
-    ;
 });
