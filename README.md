@@ -54,7 +54,7 @@ The portfolio was built on Twitter's <a href="http://getbootstrap.com/">Bootstra
 * <a href="http://getbootstrap.com/css/">Bootstrap's CSS Classes</a>
 * <a href="http://getbootstrap.com/components/">Bootstrap's Components</a>
 
-#### Optimizations Made
+# Optimizations Made
 
 ## HTML
 1. Gathered all images from online sources and moved into root img folder.
@@ -64,6 +64,7 @@ The portfolio was built on Twitter's <a href="http://getbootstrap.com/">Bootstra
 5. Asychronous JS files.
 6. Added Google Analytics ID.
 7. Minified
+8. Inlined CSS
 
 ## CSS
 1. Replaced Open Sans with Arial (Very similar in appearance).
@@ -72,6 +73,6 @@ The portfolio was built on Twitter's <a href="http://getbootstrap.com/">Bootstra
 
 
 ## JavaScript
-1. Reduced amount of generated background pizzas to 40.
-2. Adjusted read-write order in changesPizzaSizes() loop.
+1. Generate sliding background pizzas based on screen size.
+2. Adjusted read-write order in changesPizzaSizes & updatePositions loops.
 3. Minified perfmatters.js
