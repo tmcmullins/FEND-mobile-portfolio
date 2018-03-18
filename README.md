@@ -53,25 +53,3 @@ The portfolio was built on Twitter's <a href="http://getbootstrap.com/">Bootstra
 
 * <a href="http://getbootstrap.com/css/">Bootstrap's CSS Classes</a>
 * <a href="http://getbootstrap.com/components/">Bootstrap's Components</a>
-
-#### Optimizations Made
-
-## HTML
-1. Gathered all images from online sources and moved into root img folder.
-2. Compressed all images and made sure they are progressive.
-3. Added smaller sized compressed image of pizzaria.jpg to root img folder.
-4. Removed Google Open Sans font. (replaced with Arial: see CSS changes).
-5. Asychronous JS files.
-6. Added Google Analytics ID.
-7. Minified
-
-## CSS
-1. Replaced Open Sans with Arial (Very similar in appearance).
-2. Removed background from body.
-3. Removed CSS styling on b, pre, code and strong tags.
-
-
-## JavaScript
-1. Reduced amount of generated background pizzas to 40.
-2. Adjusted read-write order in changesPizzaSizes() loop.
-3. Minified perfmatters.js
