@@ -73,6 +73,6 @@ The portfolio was built on Twitter's <a href="http://getbootstrap.com/">Bootstra
 
 
 ## JavaScript
-1. Generate sliding background pizzas based on screen size.
+1. Generate sliding background pizzas dynamically.
 2. Adjusted read-write order in changesPizzaSizes & updatePositions loops.
 3. Minified perfmatters.js
